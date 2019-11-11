@@ -1,0 +1,6 @@
+{
+  "name": "My Timer",
+  "type": "app",
+  "icon": "*timer",
+  "src": "-timer"
+}
