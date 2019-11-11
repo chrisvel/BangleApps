@@ -659,6 +659,11 @@
       {
         "name": "-timer",
         "url": "my-timer.js"
+      },
+      {
+        "name": "*timer",
+        "url": "my-timer-icon.js",
+        "evaluate": true
       }
     ]
   }
